@@ -1,0 +1,5 @@
+Rushi 87 P
+Mahi  91 P
+Hani 34	F
+John	25	F
+Jom	89	P
